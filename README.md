@@ -16,9 +16,9 @@ The **Comprehensive Technology and Demographic Insights Analytics** project is d
 - **Intuitive Dashboards:** Interactive and user-friendly dashboards constructed using IBM Cognos Analytics, enabling stakeholders to filter, drill down, and analyze data from multiple perspectives.
 - **Strategic Support:** Enables HR teams, educational planners, and technology managers to align their strategies with evolving skill trends and demographic realities.
 
-  # Project Link:
--https://ap1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FComprehensive%2BTechnology%2Band%2BDemographic%2BInsights%2BAnalytics&action=view&mode=dashboard&subView=model0000019885ac649e_00000000
-
 # Impact:
 This analytics project empowers organizations to stay ahead in a rapidly changing technology landscape by providing clear, data-backed insights into both the human and technical dimensions of the industry. It supports strategic planning for workforce development, recruitment, and technology adoption aligned with real-world trends and professional aspirations.
+
+# Project Link:
+https://ap1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FComprehensive%2BTechnology%2Band%2BDemographic%2BInsights%2BAnalytics&action=view&mode=dashboard&subView=model0000019885ac649e_00000000
 
